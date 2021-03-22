@@ -1,8 +1,8 @@
 
 ##install openresty
-    sudo yum install yum-utils
-    sudo yum-config-manager --add-repo https://openresty.org/package/centos/openresty.repo
-    sudo yum install openresty
+    sudo yum install yum-utils 
+    sudo yum-config-manager --add-repo https://openresty.org/package/centos/openresty.repo 
+    sudo yum install openresty 
     
 ### luarocks install
     yum install cmake
