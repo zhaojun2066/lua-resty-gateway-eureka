@@ -1,0 +1,11 @@
+eureka:
+  address: [""]
+  port: 8001
+  apps_uri: /eureka/apps
+
+
+
+plugins:
+  - name: cors
+    enable: true
+    scope: global
